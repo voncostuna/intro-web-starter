@@ -1,9 +1,5 @@
-/*
-  TODO:
-  1. Select your button
-  2. Add a click event listener
-  3. Show an alert message when the button is clicked
+const button = document.getElementById("alertButton");
 
-  Example idea:
-  "Hello! JavaScript is working."
-*/
+button.addEventListener("click", function () {
+  alert("Hello! You clicked the button 🎉");
+});
