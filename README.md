@@ -111,16 +111,16 @@ You are required to have **at least 3 commits** (one for each file type).
 ## 🧠 Reflection (Required)
 *Please edit this file and fill in your answers below before submitting.*
 
-**Name:** [ YOUR NAME HERE ]
+**Name:** Von Gabriel Costuna
 
 **1. What did you learn from the intro video?**
-> [ Write your answer here ]
+> I learned the basics of how web development works and how HTML, CSS, and JavaScript each play a different role in creating a website.
 
 **2. What is the role of HTML in web development?**
-> [ Write your answer here ]
+> HTML provides the structure of a webpage. It defines elements like headings, paragraphs, buttons, and links.
 
 **3. What is the role of CSS in web development?**
-> [ Write your answer here ]
+> CSS controls the appearance of a webpage, including colors, fonts, layout, and spacing.
 
 **4. What is the role of JavaScript in web development?**
-> [ Write your answer here ]
+> JavaScript adds interactivity and behavior to a webpage, such as responding to button clicks or showing alerts.
