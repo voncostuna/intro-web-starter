@@ -1,9 +1,28 @@
-/*
-  TODO:
-  1. Change the background color
-  2. Style your text (font size, color, etc.)
-  3. Style your button
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
 
-  Keep it simple.
-  No advanced layouts are required.
-*/
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
